@@ -373,7 +373,7 @@ nav a{
   background-color: #0f3864;
   color: white;
   border: none;
-  border-radius: 0 5px 5px 0;
+  border-radius: 5px 0 0 5px;
   cursor: pointer;
   font-size: 12px;
   width: 100px;
