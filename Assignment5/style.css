@@ -67,7 +67,7 @@ body {
 .fixed-button {
     position: fixed;
     right: 0;
-    top: 13.2vh;
+    top: 14vh;
     z-index: 1000;
     margin: 0;
     padding: 0;
